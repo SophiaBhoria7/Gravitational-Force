@@ -1,8 +1,5 @@
 // Programmer Name: Sophia Bhoria
-// Student ID: 18240287
-// Section: 303
 // Date: Sept 03, 2024
-// File: lab2.cpp
 // Purpose: calculate and output a computed gravitational force on a particular planet when the user inputs the mass of the first body and the second body with a distance
 
 #include <iostream>
